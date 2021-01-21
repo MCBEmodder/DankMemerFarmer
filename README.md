@@ -1,2 +1,8 @@
-# DankMemerFarmer
-Auto Farmer for Dankmemer
+## **About**
+
+#### This is a DankMemer auto farmer script made purely in python
+
+
+
+
+
