@@ -1,25 +1,7 @@
-### **About**
-
-I am not responsible if you get banned from DankMemer or Discord Servers
- 
-### **Features**
-- Randomized sending time
-- Anti DankMemer Detection 
-- Postmeme Randomizer
-- Pls HL
+https://github.com/H1tRecord/DankMemerFarmer
 
 ### **Requirements**
 - Python
 - VS Code (or others) 
 - pynput
-
-### **Future Updates**
-
-EXE file
-- On and off switch
-- Add and Edit Commands
-- Disable Commands
-- Randomized Commands
-- Timer/max loop
-
-
+- venv (Optional but good)
